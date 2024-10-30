@@ -17,7 +17,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://quentin-pics.oss-cn-beijing.aliyuncs.com/img/yepQuentin-avatar.jpg', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/yepQuentin',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'Quentin'],
